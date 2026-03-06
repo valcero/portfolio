@@ -65,7 +65,7 @@ export const projects: Project[] = [
     title: "E-Commerce Platform",
     description:
       "A full-stack e-commerce application with real-time inventory management, payment processing, and an admin dashboard. Built for scalability with microservices architecture.",
-    tech: ["Next.js", "TypeScript", "Stripe", "PostgreSQL", "Redis"],
+    tech: ["TypeScript", "Stripe", "PostgreSQL", "Redis"],
     liveUrl: "#",
     sourceUrl: "#",
   },
