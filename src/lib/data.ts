@@ -78,7 +78,7 @@ export const projects: Project[] = [
     sourceUrl: "#",
   },
   {
-    title: "AI Content Generator",
+    title: "Go Eats",
     description:
       "An intelligent content generation platform leveraging LLMs for automated blog writing, social media posts, and marketing copy with customizable tone and style.",
     tech: ["Python", "FastAPI", "OpenAI", "React", "Docker"],
